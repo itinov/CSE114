@@ -1,9 +1,5 @@
 package Homeworks.Homework1;
-/*  CSE 114 Summer 2017, Paul Fodor
- *  Ivan Tinov
- *  ID# 110255332
- *  Homework 1
- */
+
 
 // program that calculates the area and volume of a cylinder using two simple equations
 
