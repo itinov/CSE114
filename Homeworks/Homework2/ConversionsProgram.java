@@ -1,9 +1,4 @@
 package Homeworks.Homework2;
-/*  CSE 114 Summer 2017, Paul Fodor
- *  Ivan Tinov
- *  ID# 110255332
- *  Homework 2
- */
 // program for various conversions between pounds to kilos, miles to kilometers and vice versa for the two options.
 
 import java.util.Scanner;
@@ -13,10 +8,10 @@ public class ConversionsProgram {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.println("Please choose from one of the following options: ");
-		System.out.println("A – convert pounds to kilos");
-		System.out.println("B – convert kilos to pounds");
-		System.out.println("C – convert kilometers to miles");
-		System.out.println("D – convert miles to kilometers");
+		System.out.println("A â€“ convert pounds to kilos");
+		System.out.println("B â€“ convert kilos to pounds");
+		System.out.println("C â€“ convert kilometers to miles");
+		System.out.println("D â€“ convert miles to kilometers");
 		System.out.println("E - Exit");
 		
 		char choice;
