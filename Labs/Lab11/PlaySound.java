@@ -1,9 +1,5 @@
 package Labs.Lab11;
-/*  CSE 114 Summer 2017, Paul Fodor
- *  Ivan Tinov
- *  ID# 110255332
- *  Lab #11
- */
+
 
 import javafx.application.Application;
 import javafx.stage.Stage;
