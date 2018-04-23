@@ -1,9 +1,5 @@
 package Homeworks.Homework2;
-/*  CSE 114 Summer 2017, Paul Fodor
- *  Ivan Tinov
- *  ID# 110255332
- *  Homework 2
- */
+
 // program for counting the number of positive and negative numbers from input,
 // as well as summing all the numbers up and taking their average
 import java.util.Scanner;
