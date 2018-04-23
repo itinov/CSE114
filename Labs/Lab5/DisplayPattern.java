@@ -1,9 +1,5 @@
 package Labs.Lab5;
-/*  CSE 114 Summer 2017, Paul Fodor
- *  Ivan Tinov
- *  ID# 110255332
- *  Lab #5
- */
+
 //program to display a desired pattern
 //Plug in a value for the number of rows desired.
 
