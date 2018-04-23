@@ -1,9 +1,4 @@
 package Labs.Lab11;
-/*  CSE 114 Summer 2017, Paul Fodor
- *  Ivan Tinov
- *  ID# 110255332
- *  Lab #11
- */
 
 import java.util.Scanner;
 
