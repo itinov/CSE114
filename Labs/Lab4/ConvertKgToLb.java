@@ -1,9 +1,5 @@
 package Labs.Lab4;
-/*  CSE 114 Summer 2017, Paul Fodor
- *  Ivan Tinov
- *  ID# 110255332
- *  Lab #4
- */
+
 // Program that displays a table with kilograms converted to pounds using a for-loop
 
 public class ConvertKgToLb {
