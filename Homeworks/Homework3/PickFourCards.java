@@ -1,9 +1,5 @@
 package Homeworks.Homework3;
-/*  CSE 114 Summer 2017, Paul Fodor
- *  Ivan Tinov
- *  ID# 110255332
- *  Homework 3
- */
+
 
 // Program to pick 4 random playing cards from a deck of 52 cards and compute their sum
 
