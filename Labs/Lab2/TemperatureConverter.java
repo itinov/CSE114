@@ -1,9 +1,5 @@
 package Labs.Lab2;
-/*  CSE 114 Summer 2017, Paul Fodor
- *  Ivan Tinov
- *  ID# 110255332
- *  Lab #2
- */
+
 
 // TemperatureConverter program that converts degree Celsius to degree Fahrenheit.
 
