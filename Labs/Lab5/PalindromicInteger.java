@@ -1,9 +1,5 @@
 package Labs.Lab5;
-/*  CSE 114 Summer 2017, Paul Fodor
- *  Ivan Tinov
- *  ID# 110255332
- *  Lab #5
- */
+
 
 // program to reverse a sequence of integers and compare them to the original
 // number sequence to see if the number is a palindrome
