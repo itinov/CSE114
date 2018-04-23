@@ -1,9 +1,5 @@
 package Labs.Lab3;
-/*  CSE 114 Summer 2017, Paul Fodor
- *  Ivan Tinov
- *  ID# 110255332
- *  Lab #3
- */
+
 
 
 // Java program that sorts three integer numbers from smallest to largest
