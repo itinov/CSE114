@@ -1,9 +1,5 @@
 package Homeworks.Homework2;
-/*  CSE 114 Summer 2017, Paul Fodor
- *  Ivan Tinov
- *  ID# 110255332
- *  Homework 2
- */
+
 // program for counting the number of times digits 0-9 appear in a String input statement.
 import java.util.Scanner;
 
