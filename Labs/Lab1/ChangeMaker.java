@@ -1,8 +1,5 @@
 package Labs.Lab1;
-/*  CSE 114 Summer 2017, Paul Fodor
- *  Ivan Tinov
- *  ID# 110255332
- */
+
 
 // ChangeMaker program that gives change in quarters, dimes, nickels, and pennies.
 // *** updated *** to add a limit to using up to 99 cents through if... else statement
