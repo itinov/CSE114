@@ -1,9 +1,5 @@
 package Labs.Lab5;
-/*  CSE 114 Summer 2017, Paul Fodor
- *  Ivan Tinov
- *  ID# 110255332
- *  Lab #5
- */
+
 
 // program to sum the digits in a sequence of numbers
 
