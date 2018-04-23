@@ -1,9 +1,5 @@
 package Homeworks.Homework3;
-/*  CSE 114 Summer 2017, Paul Fodor
- *  Ivan Tinov
- *  ID# 110255332
- *  Homework 3
- */
+
 
 /* Program that inserts a integer value (pivot) into a list and moves all the
  * values less than the pivot to the left, creating a partition of the original list
