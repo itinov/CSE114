@@ -1,9 +1,5 @@
 package Labs.Lab9;
-/*  CSE 114 Summer 2017, Paul Fodor
- *  Ivan Tinov
- *  ID# 110255332
- *  Lab #9
- *  
+/*  
  *  This lab actually is a simple implementation of a Stack, which is further
  *  used and taught in CSE 214
  */
