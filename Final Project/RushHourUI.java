@@ -1,9 +1,4 @@
 package FinalProject;
-/*  CSE 114 Summer 2017, Paul Fodor
- *  Ivan Tinov
- *  ID# 110255332
- *  Rush Hour Final Project
- */
 
 import javafx.application.Application;
 import javafx.geometry.Pos;
