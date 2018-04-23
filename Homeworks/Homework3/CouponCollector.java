@@ -1,9 +1,5 @@
 package Homeworks.Homework3;
-/*  CSE 114 Summer 2017, Paul Fodor
- *  Ivan Tinov
- *  ID# 110255332
- *  Homework 3
- */
+
 
 /* Implementation of classical coupon collector problem where in this case
  * the problem is to see how many times it takes to pick a specific set of cards
