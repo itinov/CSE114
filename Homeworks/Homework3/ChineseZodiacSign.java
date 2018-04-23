@@ -1,9 +1,5 @@
 package Homeworks.Homework3;
-/*  CSE 114 Summer 2017, Paul Fodor
- *  Ivan Tinov
- *  ID# 110255332
- *  Homework 3
- */
+
 
 // Program to discover your chinese zodiac symbol by inputting your birth year
 import java.util.Scanner;
