@@ -1,9 +1,5 @@
 package Homeworks.Homework4.Account;
-/*  CSE 114 Summer 2017, Paul Fodor
- *  Ivan Tinov
- *  ID# 110255332
- *  Homework 4
- */
+
 
 public class AccountDriver {
 
